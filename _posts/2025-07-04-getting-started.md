@@ -21,7 +21,7 @@ Every deviation from the norm is technically improbable. If the only thing I can
 - Systems beat genius; design habits and execution rituals that don't rely on bursts of brilliance
 - Play long games where execution wins over cleverness
 
-> "If I execute intelligently and relentlessly, time makes me inevitable."
+> If I execute intelligently and relentlessly, time makes me inevitable.
 
 #### 2. Chasing Every Hero Identity
 
@@ -32,7 +32,7 @@ I've realized I'm not supposed to emulate every path. When I see someone admirab
 - Create a "hero compass" with 3-4 core virtues that chosen heroes embody
 - Follow the spirit, not the specifics
 
-> "I follow the spirit of my heroes, not their specifics. Their path was context. My path is necessity."
+> I follow the spirit of my heroes, not their specifics. Their path was context. My path is necessity.
 
 #### 3. Extreme Pessimism and Catastrophizing
 
@@ -67,13 +67,13 @@ Until I reach 70 and am incapable of working 16 hours a day, I shouldn't aim to 
 
 ### An Integrated Antifragile Philosophy
 
-> "I am not here to win by luck or genius.  
+> I am not here to win by luck or genius.  
 > I am here to become a machine that adapts faster, lasts longer, and evolves stronger.  
 > I do not copy heroes—I metabolize their spirit.  
 > I do not act on fear—but I weaponize it.  
 > I do not need motivation—I track motion.  
 > I do not chase balance—I pursue impact with oscillation.  
-> My work is my hammer, my iterations are my fire, and my antifragility is my sword."
+> My work is my hammer, my iterations are my fire, and my antifragility is my sword.
 
 This framework isn't about making life easier—it's about making myself stronger through exposure to difficulty. True antifragility isn't just surviving chaos; it's thriving because of it.
 
