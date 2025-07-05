@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Antifragility: Transforming Mental Weaknesses into Strengths"
-date: 2025-07-05 10:00:00 +0200
+date: 2025-07-04 10:00:00 +0200
 categories: [philosophy, personal-development]
 tags: [antifragility, mental-strength, self-improvement, stoicism]
 ---
